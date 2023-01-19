@@ -17,5 +17,5 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
-git clone https://github.com/vernesong/OpenClash.git
-git clone https://github.com/rozhuk-im/msd_lite.git
+
+
